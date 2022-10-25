@@ -1,6 +1,6 @@
 # OEMS (Online Education Management System) Backend
 
-_This project serves as backend for [OEMS (Online Education Management System) frontend](https://github.com/VirajPatidar/oems-frontend)._
+_This project serves as backend for [OEMS (Online Education Management System) frontend](https://github.com/atharvadpatil/oems-frontend)._
 
 _Online Education Management System is a project that serves as the all-in-one place for teaching and learning.
 Our easy-to-use and secure tools helps educators manage, measure, and enrich learning experiences._
@@ -9,7 +9,7 @@ Our easy-to-use and secure tools helps educators manage, measure, and enrich lea
 
 **Link to the website:** [https://oems.netlify.app/](https://oems.netlify.app/)
 <br/>
-**Link to frontend repo:** [https://github.com/VirajPatidar/oems-frontend](https://github.com/VirajPatidar/oems-frontend)
+**Link to frontend repo:** [https://github.com/atharvadpatil/oems-frontend](https://github.com/atharvadpatil/oems-frontend)
 
 
 ### Tech Stack ###
